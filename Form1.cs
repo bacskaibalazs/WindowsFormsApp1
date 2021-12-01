@@ -20,6 +20,7 @@ namespace WindowsFormsApp1
             {
                 Bounds = new Rectangle(0, 00, 100, 50);
                 Text = "Hello World";
+                BackColor = Color.Yellow;
             }
 
 
